@@ -12,6 +12,14 @@ O QHosp é composto por três aplicações integradas:
 
 ---
 
+### 📄 Documentação
+
+Para mais informações sobre o desenvolvimento e a proposta do projeto:
+
+[📑 Acessar relatório do QHosp](./TCC-Relatorio-QHosp.pdf)
+
+---
+
 ### 🔗 Repositórios
 
 [🌐 QHosp Web](https://github.com/lucas-santos0/qhosp-web)
