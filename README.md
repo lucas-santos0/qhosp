@@ -31,3 +31,12 @@ React · React Native · TypeScript · Node.js · Express · Firebase · Firesto
 ### 🔌 Integrações
 
 Firebase Authentication · Firebase Firestore · API CNES · Vercel · Render
+
+---
+
+### 👥 Integrantes
+
+- **Lucas de Oliveira Santos**
+- **Lucas Mauricio da Silva** 
+- **Mariana Patricio de Freitas** 
+- **Olívia Manuela de F.S. Atanagildo**
